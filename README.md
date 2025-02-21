@@ -22,4 +22,5 @@ This mod provides quick access to key player information directly on the screen,
 
 ## Author
 
+- [Sma1lo_](https://github.com/Sma1lo) - Main Developer
 
