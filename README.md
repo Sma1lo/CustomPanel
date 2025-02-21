@@ -1,4 +1,4 @@
-# Minecraft Info Panel Mod
+# Custom Panel Mod
 
 This Minecraft mod, utilizing a custom rendering API, adds an information panel to the top-left corner of the screen, displaying the player's name, coordinates, FPS, and ping.
 
