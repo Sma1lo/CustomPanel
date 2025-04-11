@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: custom_panel
+Specification-Vendor: Sma1lo_
+Specification-Version: 1
+Implementation-Title: CustomPanel
+Implementation-Version: 1.0.0
+Implementation-Vendor: Sma1lo_
+Implementation-Timestamp: 2025-03-01T14:47:59+0300
+

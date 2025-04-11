@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[40.1.0,)"
+
+license="All rights reserved"
+
+[[mods]]
+modId="custom_panel"
+version="1.0.0"
+displayName="Custom Panel"
+authors="Sma1lo_"
+description='''Github: https://github.com/Sma1lo'''
+
+[[dependencies.custom_panel]]
+
+modId="forge"
+mandatory=true
+versionRange="[40.1.0,)"
+
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.custom_panel]]
+modId="minecraft"
+mandatory=true
+
+versionRange="[1.20.0,)"
+ordering="NONE"
+side="BOTH"
