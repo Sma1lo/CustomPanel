@@ -17,6 +17,11 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
+/**
+ *
+ *@author Sma1lo
+ */
+
 @Mod(CustomPanel.MODID)
 public class CustomPanel {
     public static final String MODID = "custom_panel";
