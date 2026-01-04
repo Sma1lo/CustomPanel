@@ -17,4 +17,6 @@ This mod provides quick access to key player information directly on the screen,
 ## Requirements
 
 •   Minecraft 1.20.1
+•   Forge
+
 
