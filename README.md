@@ -18,9 +18,3 @@ This mod provides quick access to key player information directly on the screen,
 
 •   Minecraft 1.20.1
 
-## Screenshots
-
-## Author
-
-- [Sma1lo_](https://github.com/Sma1lo) - Main Developer
-
